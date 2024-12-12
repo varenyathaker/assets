@@ -10,15 +10,15 @@
 		"posts": [
 			{
 				"likes": 0,
-				"caption": "Majestic Amber Fort: Where History Echoes Through Golden Stones 🏰",
-				"hashtags": ["rajasthan", "royalheritage", "desertculture", "amberfort"],
-				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+				"caption": "Watching local puppet show at Jaisalmer! Absolutely loving the depiction!!",
+				"hashtags": ["rajasthaniculture", "folkdance", "traditionalart", "colorfulrajasthan"],
+				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/2.jpg"
 			},
 			{
 				"likes": 0,
-				"caption": "Colorful Pagri and Folk Dance: Celebrating Rajasthani Traditions! 💃",
-				"hashtags": ["rajasthaniculture", "folkdance", "traditionalart", "colorfulrajasthan"],
-				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+				"caption": "Majestic Amber Fort: Where History Echoes Through Golden Stones 🏰",
+				"hashtags": ["rajasthan", "royalheritage", "desertculture", "amberfort"],
+				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/5.jpg"
 			}
 		],
 		"badges": ["rajasthan", "kerala", "karnataka", "bihar", "manipur", "assam"],
