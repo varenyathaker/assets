@@ -112,13 +112,13 @@
 				"likes": 0,
 				"caption": "Khajuraho Temples: Where Art and Spirituality Converge! 🕍",
 				"hashtags": ["khajuraho", "ancientarchitecture", "worldheritage", "madhyapradesh"],
-				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+				"image_url": "https://github.com/varenyathaker/assets/blob/main/madhyapradesh/khajuraho.jpg"
 			},
 			{
 				"likes": 0,
 				"caption": "Poha and Jalebi: A Delectable Morning Ritual in MP! 🍽️",
 				"hashtags": ["madhyapradeshdiet", "streetfood", "breakfastculture", "traditionaleats"],
-				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+				"image_url": "https://github.com/varenyathaker/assets/blob/main/madhyapradesh/pj.jpg"
 			}
 		],
 		"badges": [],
@@ -130,20 +130,20 @@
 		"slug": "dranup",
 		"email": "anupkumar@gmail.com",
 		"password": "dranup",
-		"bio": "I am Anup from Andhra Pradesh, excited to showcase the vibrant culture of Andhra Pradesh to this platform.",
-		"state": "Andhra Pradesh",
+		"bio": "I am Anup from Punjab, excited to showcase the vibrant culture of Punjab to this platform.",
+		"state": "Punjab",
 		"posts": [
 			{
 				"likes": 0,
-				"caption": "Kakatiya Temple: A Glimpse of Andhra's Architectural Brilliance! 🏛️",
-				"hashtags": ["andhraheritage", "historicalarchitecture", "templeart", "culturaltreasure"],
-				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+				"caption": "Having Delicious Kulcha Paratha with Paneer Butter Masala !!",
+				"hashtags": ["delicious", "pannerfan"],
+				"image_url": "https://github.com/VijeshVS/colors/blob/main/punjab/2.jpg"
 			},
 			{
 				"likes": 0,
-				"caption": "Pesarattu and Ginger Chutney: Andhra's Breakfast Masterpiece! 🥣",
-				"hashtags": ["andhracuisine", "southindianfood", "traditionalbreakfast", "regionaldelicacy"],
-				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+				"caption": "Visited JallianVala Bagh today. Long live India!!",
+				"hashtags": ["sacrifice", "freedomfighter", "patriotism", "bharatmata"],
+				"image_url": "https://github.com/VijeshVS/colors/blob/main/punjab/3.jpg"
 			}
 		],
 		"badges": [],
@@ -155,20 +155,20 @@
 		"slug": "aasthaa",
 		"email": "aastha2096@gmail.com",
 		"password": "aasthaa",
-		"bio": "I am Aastha from Maharashtra, excited to showcase the vibrant culture of Maharashtra to this platform.",
-		"state": "Maharashtra",
+		"bio": "I am Aastha from Uttarakhand, excited to showcase the vibrant culture of Uttarakhand to this platform.",
+		"state": "Uttarkhand",
 		"posts": [
 			{
 				"likes": 0,
-				"caption": "Ajanta Caves: A Canvas of Ancient Buddhist Art! 🖼️",
-				"hashtags": ["maharashtraculture", "worldheritage", "buddhistart", "ancientarchitecture"],
-				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+				"caption": "Feeling blessed to be a Shiva's feet at Kedarnath ",
+				"hashtags": ["god", "shiva", "kedarnath"],
+				"image_url": "https://github.com/VijeshVS/colors/blob/main/Uttarakhand/1.png"
 			},
 			{
 				"likes": 0,
-				"caption": "Vada Pav and Chai: Mumbai's Iconic Street Food Culture! ☕",
-				"hashtags": ["mumbaistreetfood", "maharashtraicuisine", "localdelicacy", "foodculture"],
-				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+				"caption": "Having the most beautiful time of my life at Valley of Flowers",
+				"hashtags": ["flowers", "scenic"],
+				"image_url": "https://github.com/VijeshVS/colors/blob/main/Uttarakhand/2.png"
 			}
 		],
 		"badges": [],
