@@ -1,0 +1,227 @@
+[
+	{
+		"name": "Samkit Samsukha",
+		"username": "samkit_samsukha",
+		"slug": "samkit_samsukha",
+		"email": "samkitsamsukha.is23@rvce.edu.in",
+		"password": "samkit7",
+		"bio": "I am Samkit, hailing from Sri Dungargadh in Rajasthan and I am excited to showcase the vibrant culture of Rajasthan to this platform.",
+		"state": "Rajasthan",
+		"posts": [
+			{
+				"likes": 0,
+				"caption": "Majestic Amber Fort: Where History Echoes Through Golden Stones 🏰",
+				"hashtags": ["rajasthan", "royalheritage", "desertculture", "amberfort"],
+				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+			},
+			{
+				"likes": 0,
+				"caption": "Colorful Pagri and Folk Dance: Celebrating Rajasthani Traditions! 💃",
+				"hashtags": ["rajasthaniculture", "folkdance", "traditionalart", "colorfulrajasthan"],
+				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+			}
+		],
+		"badges": ["rajasthan", "kerala", "karnataka", "bihar", "manipur", "assam"],
+		"tokens": 120
+	},
+	{
+		"name": "Varenya Thaker",
+		"username": "vt375",
+		"slug": "vt375",
+		"email": "varenyathaker.is23@rvce.edu.in",
+		"password": "vt375",
+		"bio": "I am Varenya, from Jamnagar, Gujarat. I am excited to showcase the vibrant culture of Gujarat to this platform.",
+		"state": "Gujarat",
+		"posts": [
+			{
+				"likes": 0,
+				"caption": "Navratri Nights: Dancing to the Rhythms of Garba! 🎉",
+				"hashtags": ["navratri", "garba", "gujaratifestival", "culturalheritage"],
+				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+			},
+			{
+				"likes": 0,
+				"caption": "Savor the Flavors: Dhokla and Thepla, Gujarat's Culinary Delights! 🍽️",
+				"hashtags": ["gujaratifood", "streetfood", "culinarytradition", "vegetariancuisine"],
+				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+			}
+		],
+		"badges": [],
+		"tokens": 140
+	},
+	{
+		"name": "Oojam Chaudhary",
+		"username": "oojamc",
+		"slug": "oojamc",
+		"email": "oojamchaudhary.is23@rvce.edu.in",
+		"password": "oojamc",
+		"bio": "I am Oojam from Bihar, I am excited to showcase the vibrant culture of Bihar to this platform.",
+		"state": "Bihar",
+		"posts": [
+			{
+				"likes": 0,
+				"caption": "Mahabodhi Temple: A Spiritual Journey in Bodhgaya 🕉️",
+				"hashtags": ["bihar", "buddhism", "spiritualjourney", "worldheritage"],
+				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+			},
+			{
+				"likes": 0,
+				"caption": "Litti Chokha: The Heartwarming Flavors of Bihari Cuisine! 🥘",
+				"hashtags": ["biharifood", "rusticcuisine", "traditionalrecipe", "streetfood"],
+				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+			}
+		],
+		"badges": [],
+		"tokens": 140
+	},
+	{
+		"name": "Vijesh",
+		"username": "valo",
+		"slug": "valo",
+		"email": "vijesh.is23@rvce.edu.in",
+		"password": "valo",
+		"bio": "I am Vijesh from Karnataka, I am excited to showcase the vibrant culture of Karnataka to this platform.",
+		"state": "Karnataka",
+		"posts": [
+			{
+				"likes": 0,
+				"caption": "Mysore Palace: A Grandeur of Architectural Splendor! 🏰",
+				"hashtags": ["mysore", "karnatakaculture", "royalarchitecture", "historicalmonument"],
+				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+			},
+			{
+				"likes": 0,
+				"caption": "Masala Dosa and Filter Coffee: Karnataka's Culinary Symphony! ☕",
+				"hashtags": ["kannadacuisine", "southindianfood", "breakfastdelight", "streetfood"],
+				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+			}
+		],
+		"badges": [],
+		"tokens": 140
+	},
+	{
+		"name": "Suhani Khurana",
+		"username": "suhaniii",
+		"slug": "suhaniii",
+		"email": "suhanikhurana.is23@rvce.edu.in",
+		"password": "suhaniii",
+		"bio": "I am Suhani from Madhya Pradesh, I am excited to showcase the vibrant culture of Madhya Pradesh to this platform.",
+		"state": "Madhya Pradesh",
+		"posts": [
+			{
+				"likes": 0,
+				"caption": "Khajuraho Temples: Where Art and Spirituality Converge! 🕍",
+				"hashtags": ["khajuraho", "ancientarchitecture", "worldheritage", "madhyapradesh"],
+				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+			},
+			{
+				"likes": 0,
+				"caption": "Poha and Jalebi: A Delectable Morning Ritual in MP! 🍽️",
+				"hashtags": ["madhyapradeshdiet", "streetfood", "breakfastculture", "traditionaleats"],
+				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+			}
+		],
+		"badges": [],
+		"tokens": 140
+	},
+	{
+		"name": "Anup",
+		"username": "dranup",
+		"slug": "dranup",
+		"email": "anupkumar@gmail.com",
+		"password": "dranup",
+		"bio": "I am Anup from Andhra Pradesh, excited to showcase the vibrant culture of Andhra Pradesh to this platform.",
+		"state": "Andhra Pradesh",
+		"posts": [
+			{
+				"likes": 0,
+				"caption": "Kakatiya Temple: A Glimpse of Andhra's Architectural Brilliance! 🏛️",
+				"hashtags": ["andhraheritage", "historicalarchitecture", "templeart", "culturaltreasure"],
+				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+			},
+			{
+				"likes": 0,
+				"caption": "Pesarattu and Ginger Chutney: Andhra's Breakfast Masterpiece! 🥣",
+				"hashtags": ["andhracuisine", "southindianfood", "traditionalbreakfast", "regionaldelicacy"],
+				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+			}
+		],
+		"badges": [],
+		"tokens": 140
+	},
+	{
+		"name": "Aastha",
+		"username": "aasthaa",
+		"slug": "aasthaa",
+		"email": "aastha2096@gmail.com",
+		"password": "aasthaa",
+		"bio": "I am Aastha from Maharashtra, excited to showcase the vibrant culture of Maharashtra to this platform.",
+		"state": "Maharashtra",
+		"posts": [
+			{
+				"likes": 0,
+				"caption": "Ajanta Caves: A Canvas of Ancient Buddhist Art! 🖼️",
+				"hashtags": ["maharashtraculture", "worldheritage", "buddhistart", "ancientarchitecture"],
+				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+			},
+			{
+				"likes": 0,
+				"caption": "Vada Pav and Chai: Mumbai's Iconic Street Food Culture! ☕",
+				"hashtags": ["mumbaistreetfood", "maharashtraicuisine", "localdelicacy", "foodculture"],
+				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+			}
+		],
+		"badges": [],
+		"tokens": 140
+	},
+	{
+		"name": "Atharva Agarwal",
+		"username": "atharvalow",
+		"slug": "atharvalow",
+		"email": "varenyathaker.is23@rvce.edu.in",
+		"password": "atharvalow",
+		"bio": "I am Atharva from Uttar Pradesh, excited to showcase the vibrant culture of Uttar Pradesh to this platform.",
+		"state": "Uttar Pradesh",
+		"posts": [
+			{
+				"likes": 0,
+				"caption": "Taj Mahal: A Monument of Eternal Love in Agra! 💘",
+				"hashtags": ["tajmahal", "uptourism", "worldwonder", "historicalmonument"],
+				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+			},
+			{
+				"likes": 0,
+				"caption": "Lucknowi Chaat and Kebabs: A Culinary Journey Through UP! 🍲",
+				"hashtags": ["upfood", "lucknowicuisine", "mughlaistreetfood", "culinarytradition"],
+				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+			}
+		],
+		"badges": [],
+		"tokens": 140
+	},
+	{
+		"name": "Vidhi",
+		"username": "vidhiii",
+		"slug": "vidhiii",
+		"email": "vidhi1410@gmail.com",
+		"password": "vidhiii",
+		"bio": "I am Vidhi from West Bengal, excited to showcase the vibrant culture of West Bengal to this platform.",
+		"state": "West Bengal",
+		"posts": [
+			{
+				"likes": 0,
+				"caption": "Durga Puja: A Festival of Colors, Creativity, and Culture! 🎨",
+				"hashtags": ["durgapuja", "bengaliculture", "festivalofindia", "artisticexpression"],
+				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+			},
+			{
+				"likes": 0,
+				"caption": "Rosogulla and Mishti Doi: Sweet Delights of Bengal! 🍮",
+				"hashtags": ["bengalifood", "sweetmeats", "culinarytradition", "bengalicuisine"],
+				"image_url": "https://github.com/VijeshVS/colors/blob/main/Rajasthan/3.jpg"
+			}
+		],
+		"badges": [],
+		"tokens": 140
+	}
+]
